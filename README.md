@@ -1,5 +1,15 @@
 # iZiPublisher IOTA Scripts
 
+## Install TLDR
+
+```bash
+# 1) Install Node.js 18+ (LTS recommended): https://nodejs.org
+node -v
+
+# 2) Install dependencies (includes @iota/iota-sdk)
+npm install
+```
+
 ## Requirements
 
 - Node.js 18+
